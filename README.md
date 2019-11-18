@@ -1,6 +1,6 @@
-# Elastic_Sandbox
-Tutorial repository for personal enrichment
-FROM: Elasticsearch
+# Elastic_Sandbox  <BR/>
+Tutorial repository for personal enrichment<p>
+FROM: Elasticsearch</p>
 A Distributed RESTful Search Engine
 https://www.elastic.co/products/elasticsearch
 Elasticsearch is a distributed RESTful search engine built for the cloud. Features include:
